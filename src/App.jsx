@@ -64,18 +64,18 @@ const App = ({ isServerInfo }) => {
       enableWeb3({ provider: connectorId });
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isAuthenticated, isWeb3Enabled]);
-
+ 
   return (
     <Layout
       style={{
-        height: "100vh",
+        height: "auto",
         overflow: "auto",
         background: "linear-gradient(#172430, #001529)",
       }}
     >
       <Router>
         <Header theme="dark" style={styles.header}>
-          <img src={logo} alt="" style={{ width: "48px" }}></img>
+          <h1>Vennverse</h1>
           <MenuItems />
           <div style={styles.headerRight}>
             <TokenPrice

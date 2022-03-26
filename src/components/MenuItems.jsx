@@ -19,7 +19,7 @@ function MenuItems() {
       defaultSelectedKeys={[pathname]}
     >
       <Menu.Item key="/gamify">
-        <NavLink to="/gamify">🚀 Gamify</NavLink>
+        <NavLink to="/gamify">🚀 Social Media</NavLink>
       </Menu.Item>
       <Menu.Item key="/wallet">
         <NavLink to="/wallet">👛 Wallet</NavLink>
