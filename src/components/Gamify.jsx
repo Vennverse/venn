@@ -1,9 +1,21 @@
-export default function Gamify() {
-    
+// eslint-disable-next-line no-unused-vars
+import { Typography } from "antd";
+import React from "react";
+export default function QuickStart() {
   return (
-      <div>
-        hi
-      </div>
-    );
+    <iframe
+      src={"https://vennverse.github.io/Social-media/"}
+      title="ramper"
+      frameBorder="no"
+      allow="accelerometer; autoplay; camera; gyroscope; payment;"
+      style={{
+        width: "1100px",
+        height: "6025px",
+        boxShadow: "0 0.5rem 1.2rem rgb(189 197 209 / 20%)",
+        border: "1px solid #e7eaf3",
+        borderRadius: "1rem",
+        backgroundColor: "white",
+      }}
+    />
+  );
 }
-
