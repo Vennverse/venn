@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/venn/static/css/main.9e35bc4d.chunk.css",
-    "main.js": "/venn/static/js/main.31985eb1.chunk.js",
-    "main.js.map": "/venn/static/js/main.31985eb1.chunk.js.map",
-    "runtime-main.js": "/venn/static/js/runtime-main.ae4f3f8b.js",
-    "runtime-main.js.map": "/venn/static/js/runtime-main.ae4f3f8b.js.map",
-    "static/css/2.14c532d4.chunk.css": "/venn/static/css/2.14c532d4.chunk.css",
-    "static/js/2.0a994c85.chunk.js": "/venn/static/js/2.0a994c85.chunk.js",
-    "static/js/2.0a994c85.chunk.js.map": "/venn/static/js/2.0a994c85.chunk.js.map",
-    "index.html": "/venn/index.html",
-    "service-worker.js": "/venn/service-worker.js",
-    "service-worker.js.map": "/venn/service-worker.js.map",
-    "static/css/2.14c532d4.chunk.css.map": "/venn/static/css/2.14c532d4.chunk.css.map",
-    "static/css/main.9e35bc4d.chunk.css.map": "/venn/static/css/main.9e35bc4d.chunk.css.map",
-    "static/js/2.0a994c85.chunk.js.LICENSE.txt": "/venn/static/js/2.0a994c85.chunk.js.LICENSE.txt",
-    "static/media/Coin98.1e4e4073.png": "/venn/static/media/Coin98.1e4e4073.png",
-    "static/media/MathWallet.19212234.svg": "/venn/static/media/MathWallet.19212234.svg",
-    "static/media/SafePal.e7068bbc.svg": "/venn/static/media/SafePal.e7068bbc.svg",
-    "static/media/TokenPocket.0ba48742.svg": "/venn/static/media/TokenPocket.0ba48742.svg",
-    "static/media/wallet-connect.304e3277.svg": "/venn/static/media/wallet-connect.304e3277.svg"
+    "main.css": "/static/css/main.9e35bc4d.chunk.css",
+    "main.js": "/static/js/main.9254aa83.chunk.js",
+    "main.js.map": "/static/js/main.9254aa83.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.206ceba0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.206ceba0.js.map",
+    "static/css/2.14c532d4.chunk.css": "/static/css/2.14c532d4.chunk.css",
+    "static/js/2.398a6afb.chunk.js": "/static/js/2.398a6afb.chunk.js",
+    "static/js/2.398a6afb.chunk.js.map": "/static/js/2.398a6afb.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/2.14c532d4.chunk.css.map": "/static/css/2.14c532d4.chunk.css.map",
+    "static/css/main.9e35bc4d.chunk.css.map": "/static/css/main.9e35bc4d.chunk.css.map",
+    "static/js/2.398a6afb.chunk.js.LICENSE.txt": "/static/js/2.398a6afb.chunk.js.LICENSE.txt",
+    "static/media/Coin98.1e4e4073.png": "/static/media/Coin98.1e4e4073.png",
+    "static/media/MathWallet.19212234.svg": "/static/media/MathWallet.19212234.svg",
+    "static/media/SafePal.e7068bbc.svg": "/static/media/SafePal.e7068bbc.svg",
+    "static/media/TokenPocket.0ba48742.svg": "/static/media/TokenPocket.0ba48742.svg",
+    "static/media/wallet-connect.304e3277.svg": "/static/media/wallet-connect.304e3277.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae4f3f8b.js",
+    "static/js/runtime-main.206ceba0.js",
     "static/css/2.14c532d4.chunk.css",
-    "static/js/2.0a994c85.chunk.js",
+    "static/js/2.398a6afb.chunk.js",
     "static/css/main.9e35bc4d.chunk.css",
-    "static/js/main.31985eb1.chunk.js"
+    "static/js/main.9254aa83.chunk.js"
   ]
 }
